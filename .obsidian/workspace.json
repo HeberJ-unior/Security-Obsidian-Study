@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "17db8e7810a60ce8",
+    "type": "split",
+    "children": [
+      {
+        "id": "84f1512c55c79a7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2848873b0c204f99",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompTIA Security+ Certification Exam.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "CompTIA Security+ Certification Exam"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a0be4217be60de10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1ead0909f0d3403",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Content/Attachments/CompTIA-Security-Plus-SY0-701-Exam-Objectives.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "CompTIA-Security-Plus-SY0-701-Exam-Objectives"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63cb310403e8d418",
+    "type": "split",
+    "children": [
+      {
+        "id": "b765db3987d63f17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcd491cf3c8bb59f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "df344d7e1a9f0c05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "74ab71b4e5362930",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "50c23d65343c3b35",
+    "type": "split",
+    "children": [
+      {
+        "id": "51425eabec5394be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfd008d9c4b610ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "914804671d6c420f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "7d582857cba316ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d7414396444b78fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "766709d7273b1723",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "8f70337a6b2c5ac4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7d6c54a3a856116",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "766709d7273b1723",
+  "lastOpenFiles": [
+    "CompTIA Security+ Certification Exam.md",
+    "Content/General Security Concepts/General Security Concepts.md",
+    "Content/Attachments/CompTIA-Security-Plus-SY0-701-Exam-Objectives.pdf",
+    "Content/Canvas/Mental Map.canvas",
+    "Content/Canvas",
+    "Content/General Security Concepts",
+    "Content/Attachments",
+    "Content",
+    "Welcome.md"
+  ]
+}

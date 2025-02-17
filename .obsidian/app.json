@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "Content/Attachments",
+  "showLineNumber": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "focusNewTab": true
+}
